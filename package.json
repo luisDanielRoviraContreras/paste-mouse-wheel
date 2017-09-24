@@ -1,7 +1,7 @@
 {
   "name": "paste-mouse-wheel",
   "main": "./lib/paste-mouse-wheel",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "activate the gluing with the mouse wheel when clicking",
   "keywords": [
     "mouse",
@@ -16,6 +16,6 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "jquery":"^3.2.1"
+    "jquery": "^3.2.1"
   }
 }
