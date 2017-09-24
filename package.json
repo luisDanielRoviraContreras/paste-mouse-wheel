@@ -1,0 +1,21 @@
+{
+  "name": "paste-mouse-wheel",
+  "main": "./lib/paste-mouse-wheel",
+  "version": "0.0.0",
+  "description": "activate the gluing with the mouse wheel when clicking",
+  "keywords": [
+    "mouse",
+    "paste",
+    "click",
+    "text",
+    "wheel"
+  ],
+  "repository": "https://github.com/luisDanielRoviraContreras/paste-mouse-wheel",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "jquery":"^3.2.1"
+  }
+}

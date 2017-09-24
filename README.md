@@ -1,6 +1,13 @@
 # paste-mouse-wheel package
 
-A short description of your package.
+activate the gluing with the mouse wheel when clicking.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
-# paste-mouse-wheel
+# install
+
+Atom Package Manager (APM):
+```bash
+apm install paste-mouse-wheel
+```
+# Screenshots
+
+![preview gif](https://i.imgur.com/XmKp0U0.gif)
