@@ -11,3 +11,5 @@ apm install paste-mouse-wheel
 # Screenshots
 
 ![preview gif](https://i.imgur.com/XmKp0U0.gif)
+
+![preview gif](https://i.imgur.com/H8u92M8.gif)
